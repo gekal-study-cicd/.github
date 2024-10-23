@@ -1,1 +1,1 @@
-# .github
+# gekal study cicd
